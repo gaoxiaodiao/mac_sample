@@ -36,7 +36,7 @@
                                 
                                 animationTarget,NSViewAnimationTargetKey,
                                 
-                                NSViewAnimationFadeInEffect,NSViewAnimationEffectKey,
+                                NSViewAnimationFadeOutEffect,NSViewAnimationEffectKey,
                                 
                                 [NSValue valueWithRect:startFrame],NSViewAnimationStartFrameKey,
                                 
